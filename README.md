@@ -2,6 +2,7 @@
 CYCLE 2:
 1.Write a Java class having overloaded methods to calculate area of rectangle
 and circle.
+
 2.Define a class Queue for representing a queue data structure. The class must
 define a default constructor, a parameterized constructor and functions for en-
 queue, de-queue and display operations. Write a Java program to implement
