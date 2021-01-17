@@ -105,7 +105,7 @@ public class Queue {
 
 }
 
-ANSWER;
+OUTPUT;
 Enter the size of Queue:3
 
 1.Enqueue
