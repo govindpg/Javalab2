@@ -31,7 +31,7 @@ class inher
     }
 }
 
-Answers;
+OUTPUT;
 This is parent class.
 This is child class.
 This is parent class
