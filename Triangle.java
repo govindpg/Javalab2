@@ -19,6 +19,6 @@ public class Triangle
     }
 }
 
-Answers;
+OUTPUT;
 Area of triangle: 6.0
 Perimeter of Trinagle: 12.0
