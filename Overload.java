@@ -24,6 +24,6 @@ and circle.
         }
     }
 
-answer
+OUTPUT
 the area of the circle is 226.865
 the area of the rectangle is 72.0
