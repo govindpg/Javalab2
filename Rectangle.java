@@ -27,7 +27,7 @@ public class rectangle1{
         a.returnArea();
     }
 }
-Answer;
+OUTPUT;
 Enter the length: 
 50
 Enter the breadth: 
